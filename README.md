@@ -1,0 +1,2 @@
+# premium-valve-amp-001-valve-amplifier-tube-rolling-c
+Stop relying on fuzzy memory when comparing tube swaps. The Valve Amplifier Tube Rolling Comparison Log is your systematic, repeatable tasting journal for every 12AX7, EL34, or 300B you roll through your amp.  This Notion template transforms tube rolling from guesswork into a data-driven art. Pre-built databases, rating scales, and listening note f
